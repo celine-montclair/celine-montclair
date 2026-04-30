@@ -1,5 +1,4 @@
-<p align="left">
-  <img src="LINK_DA_AYANAMI" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+
 <div align="center">
 
 <p align="center">
@@ -25,7 +24,7 @@
 ---
 
 <p align="left">
-  <img src="https://i.pinimg.com/564x/90/9e/3e/909e3e2d0d8f5c7d7f0c6a8c6e1e9c3f.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="[https://i.pinimg.com/564x/90/9e/3e/909e3e2d0d8f5c7d7f0c6a8c6e1e9c3f.jpg](https://i.pinimg.com/736x/b4/df/60/b4df60fb305b4ba509596c2246c23819.jpg)" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   
   <div>
   <p><b>Backend Developer</b></p>
