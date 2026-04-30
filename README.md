@@ -1,93 +1,75 @@
-<div align="center">
-  <p align="center">
-  <img src="Screenshot_20260428_181857_Gallery.jpg" alt="Banner" width="100%">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2c/60/91/2c6091d8a0c1b3d7f1d1c9e6a5d1f4c4.gif" width="100%" />
+</p>
+
+<h1 align="center">❄️ Celine ❄️</h1>
+
+<p align="center">
+  backend developer • java & spring boot
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity+Student;loading...&background=000000"/>
+  <a href="https://www.linkedin.com/in/kayllanne-farias-017664236">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohane.mdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-beryl-xi-50.vercel.app/)
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lohjs-0&style=for-the-badge"/>
-<img src="https://img.shields.io/github/commit-activity/y/lohjs-0/lohjs-0?style=for-the-badge"/>
-<img src="https://img.shields.io/github/repo-size/lohjs-0/lohjs-0?style=for-the-badge"/>
-</div>
-</div>
 
 ---
 
-<p align="left">
-  <img src="file_00000000116871fb92dfb71961583a70.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
-  <div>
-  <p>Student FullStack Developer & Cybersecurity</p>
+## 🧊 about
 
-  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, <b>SQL databases</b>,
-  and <b>Cybersecurity</b>, exploring how to protect systems from the architecture 
-  to the data layer.
-  I have been applying this knowledge to personal projects, 
-  developing applications that involve back-end, databases, and API 
-  consumption on the front-end.
-  <br><br>
-  </div>
-</p>
-
-<br clear="right">
-
-<div align="center">
-<h3>Technologies</h3>
-</div>
+💻 backend focada em java & spring boot  
+🚀 criando APIs reais (logs, resilience, payments)  
+🎯 buscando oportunidade como dev back-end júnior  
+🎮 valorant • 🎧 música • 🎌 anime  
 
 ---
 
-<div align="center">
+## ⚙️ tech stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,postgres,mysql,docker,git" />
+</p>
 
+---
 
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-black?style=for-the-badge&logo=.net&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-black?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-black?style=for-the-badge&logo=pfSense&logoColor=white)
+## 📊 stats
 
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=celine-montclair&show_icons=true&theme=tokyonight&bg_color=000000&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=celine-montclair&theme=tokyonight&background=000000&ring=58a6ff&fire=58a6ff"/>
+</p>
 
-<br>
+---
 
-<div align="center">
-<h3>Statistics</h3>
-</div>
+## 📈 activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=celine-montclair&theme=tokyo-night&color=58a6ff"/>
+</p>
+
+---
+
+## 🚀 projects
+
+- 🔥 echolog-api → audit log system  
+- ⏱️ timeguard-api → timeout & resilience  
+- 🛡️ failguard-api → fault tolerance  
+- ⚡ cachepulse-api → cache strategies  
+
+---
+
+## 🧬 aesthetic
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/9e/3e/909e3e2d0d8f5c7d7f0c6a8c6e1e9c3f.gif" width="300"/>
+</p>
 
 ---
 
 <p align="center">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjs-0&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d&border_color=2a2a2a"/>
-
-</br>
-  
-  <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lohjs-0&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" />
-</div>
+  <i>"I am not afraid of being alone."</i>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohjs-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-</div>
