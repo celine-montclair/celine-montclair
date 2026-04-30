@@ -1,12 +1,11 @@
-
 <div align="center">
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2c/60/91/2c6091d8a0c1b3d7f1d1c9e6a5d1f4c4.gif" width="100%">
+  <p align="center">
+  <img src="https://i.pinimg.com/1200x/c4/da/64/c4da64b7cef151627ca3f9b123976a62.jpg" alt="Banner" width="100%">
 </p>
-
+  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+APIs;Building+real+world+systems;loading...&background=000000"/>
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+APIs;Building+real+world+systems;loading...&background=000000"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celine-montclair-017664236/)
@@ -21,31 +20,15 @@
 </div>
 </div>
 
----
 
 <p align="left">
-  <img src="[https://i.pinimg.com/564x/90/9e/3e/909e3e2d0d8f5c7d7f0c6a8c6e1e9c3f.jpg](https://i.pinimg.com/736x/b4/df/60/b4df60fb305b4ba509596c2246c23819.jpg)" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
-  
+  <img src="https://i.pinimg.com/736x/6c/99/11/6c99110ae76337df47961d77edbc5573.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <p><b>Backend Developer</b></p>
+  <p><b>Software Engineer</b></p>
+ Currently, I am focusing my studies on <b>Java and Spring Boot</b>, relational databases such as <b>PostgreSQL and MySQL</b>, and backend architecture.  
+  I am exploring how to build scalable and resilient systems, from application structure to data management.<br><br>
 
-  Focada em desenvolvimento back-end com <b>Java & Spring Boot</b>, construindo APIs robustas, escaláveis e bem estruturadas.
-
-  Atualmente trabalhando em projetos reais envolvendo:
-  <br><br>
-
-  ⚡ APIs REST e arquitetura limpa  
-  🛡️ Resiliência (timeouts, retry, fallback)  
-  🧠 Logs, monitoramento e performance  
-  💾 Bancos de dados relacionais  
-
-  <br>
-
-  🎯 Objetivo: Desenvolvedora Back-End Júnior  
-  🎮 Valorant • 🎧 Música • 🎌 Anime  
-
-  </div>
-</p>
+  I have been applying this knowledge in personal projects, developing applications that involve back-end services, database integration, and API consumption.<br><br>
 
 <br clear="right">
 
