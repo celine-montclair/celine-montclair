@@ -1,3 +1,5 @@
+<p align="left">
+  <img src="LINK_DA_AYANAMI" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
 <div align="center">
 
 <p align="center">
